@@ -1,0 +1,14 @@
+compile_commands.json
+.vs
+*.sln
+*.vcxproj
+Makefile
+*.filters
+*.user
+*.tlog
+*.obj
+*.idb
+*.pdb
+*.d
+.DS_Store
+Debug
